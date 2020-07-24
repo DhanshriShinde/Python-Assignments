@@ -1,7 +1,0 @@
-atitude-3490:/tmp/dd/Python-Assignments$ mkdir Day3
-abhijish@dell-Latitude-3490:/tmp/dd/Python-Assignments$ mkdir Day4
-abhijish@dell-Latitude-3490:/tmp/dd/Python-Assignments$ mkdir Day5
-abhijish@dell-Latitude-3490:/tmp/dd/Python-Assignments$ mkdir Day6
-abhijish@dell-Latitude-3490:/tmp/dd/Python-Assignments$ mkdir Day7
-abhijish@dell-Latitude-3490:/tmp/dd/Python-Assignments$ mkdir Day8
-abhijish@dell-Latitude-3490:/tmp/dd/Python-
